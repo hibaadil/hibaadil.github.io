@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616942247744",
+    "project_id": "qareebdelivery",
+    "storage_bucket": "qareebdelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616942247744:android:afbba289b9072ca7dbe4a5",
+        "android_client_info": {
+          "package_name": "com.example.qareep_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616942247744-liq5q5easpuv3uplu7lee643n32d0d8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3QOmOOIngdBU-akEO4uhfLawx8qL9F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616942247744-liq5q5easpuv3uplu7lee643n32d0d8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
